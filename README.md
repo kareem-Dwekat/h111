@@ -1,1 +1,1 @@
-# h111
+This implementation is considered Hybrid/Shell because the application mainly hosts a web interface inside a WebView using the device browser engine. React Native only provides the native container and layout. In bridged/native UI apps, the interface is built using native components instead of loading web content.
